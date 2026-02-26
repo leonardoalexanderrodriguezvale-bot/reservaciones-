@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define ALUMNOS 3
+#define ALUMNOS 5
 #define PARCIALES 3
 
 typedef struct {
